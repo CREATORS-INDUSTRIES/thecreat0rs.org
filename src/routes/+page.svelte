@@ -44,12 +44,12 @@
         {#each i18n.t("hero.subtitle").split(" ") as word, i}
           <span
             class="relative inline-block {highlightActive &&
-            (word.includes('REVENUE') || word.includes('METRICAS'))
+            (word.includes('REVENUE') || word.includes('MÉTRICAS'))
               ? 'text-white'
               : ''}"
           >
             {word}
-            {#if word.includes("REVENUE") || word.includes("METRICAS")}
+            {#if word.includes("REVENUE") || word.includes("MÉTRICAS")}
               <div
                 class="absolute -bottom-2 -left-3 h-[1px] bg-white transition-all duration-500 ease-in"
                 style="width: {highlightActive
