@@ -159,16 +159,18 @@
       class="mt-20 md:mt-32 w-full flex flex-col md:flex-row justify-between items-center opacity-60 dm-mono text-[10px] md:text-sm gap-6 md:gap-8"
     >
       <div class="flex gap-6 md:gap-8">
-        <a
+        <!-- <a
           href="https://instagram.com"
           target="_blank"
           class="hover:opacity-100">INSTAGRAM</a
         >
         <a href="https://twitter.com" target="_blank" class="hover:opacity-100"
           >TWITTER</a
-        >
-        <a href="https://linkedin.com" target="_blank" class="hover:opacity-100"
-          >LINKEDIN</a
+        > -->
+        <a
+          href="https://www.linkedin.com/company/creat0rs"
+          target="_blank"
+          class="hover:opacity-100">LINKEDIN</a
         >
       </div>
       <p class="order-3 md:order-2">© 2026 CREATORS</p>
